@@ -7,7 +7,7 @@ p {
   text-align: center;
   font-family: “Comic Sans MS”, “Comic Sans”, cursive;
 }
-h1 {
+.h1 {
   font-weight: bold;
   color: #00ffff;
   text-shadow: #808080 -2px 2px;
