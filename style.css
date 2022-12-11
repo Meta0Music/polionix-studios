@@ -1,0 +1,81 @@
+body {
+  background-image: url(dark-city-wallpaper-1920x1080-15.jpg)
+}
+p {
+  color: #ffffff;
+  text-shadow: #808080 -1px 1px;
+  text-align: center;
+  font-family: “Comic Sans MS”, “Comic Sans”, cursive;
+}
+h1 {
+  font-weight: bold;
+  color: #00ffff;
+  text-shadow: #808080 -2px 2px;
+  background-color: #f0ffff;
+  text-align: center;
+  border-radius: 10px;
+  border-color: #808080;
+  border-style: solid;
+  font-family: “Comic Sans MS”, “Comic Sans”, cursive;
+
+}
+a {
+  color: #ffffff;
+  text-shadow: #808080 -1px 1px;
+  text-align: center;
+  text-decoration: none;
+  font-family: “Comic Sans MS”, “Comic Sans”, cursive;
+  
+}
+
+a:hover {
+  color: #00ffff;
+  text-shadow: #ff0000 -1px 1px;
+  text-align: center;
+  text-decoration: none;
+  font-family:monospace;
+
+}
+
+li {
+  text-align: center;
+  
+  
+}
+
+#button{
+  background-color:#000000;
+  margin-top: 30px;
+  border-radius:10px;
+  border-color:#f0ffff;
+  border-style:solid;
+  display:inline-block;
+  text-align: center;
+  
+}
+
+.more {
+  color: #808080;
+  opacity: 50%;
+  margin-top: 50px
+  
+  
+}
+
+.credit{
+  font-size: 10px;
+  background-color: #00008b;
+  border-radius: 10px;
+  border-color: #f0ffff;
+  border-style:solid;
+  text-align: center;
+  display: inline;
+  float: right;
+}
+
+.credit2 {
+  font-size: 30px;
+  color: #00ffff;
+  
+  
+}
