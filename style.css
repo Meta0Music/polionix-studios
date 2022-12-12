@@ -37,10 +37,12 @@ a:hover {
   
 }
 s {
+  font-weight: bold;
   color: #a35670;
   text-align: center;
+  font-size: 15px;
   text-decoration: none;
-  font-family:monospace;
+  font-family:sans-serif;
 
 }
 
