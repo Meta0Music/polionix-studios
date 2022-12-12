@@ -34,6 +34,14 @@ a:hover {
   text-align: center;
   text-decoration: none;
   font-family:monospace;
+  
+}
+s {
+  color: #5663a3;
+  text-shadow: #808080 -1px 1px;
+  text-align: center;
+  text-decoration: none;
+  font-family:monospace;
 
 }
 
