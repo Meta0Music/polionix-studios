@@ -3,6 +3,6 @@ website hub for random stuff me and @BaliDoggo make uh
 
 a bunch of random bypass & gaming stuff I make or deploy will be portal'd here
 
-message from bd: i dont think meta will be updating this more ): but im still here and ill try to keep going
+message from bd: i removed my message because i was wrong and made a severe and continous lapse in my judgement
 
 message from meta: i will work on this for fun from time to time i guess
