@@ -5,7 +5,7 @@ p {
   color: #ffffff;
   text-shadow: #808080 -1px 1px;
   text-align: center;
-  font-family: “Comic Sans MS”, “Comic Sans”, cursive;
+  font-family: “Verdana”;
 }
 .h1 {
   font-weight: bold;
@@ -16,7 +16,7 @@ p {
   border-radius: 10px;
   border-color: #808080;
   border-style: solid;
-  font-family: “Comic Sans MS”, “Comic Sans”, cursive;
+  font-family: “Verdana”;
 
 }
 a {
@@ -24,7 +24,7 @@ a {
   text-shadow: #808080 -1px 1px;
   text-align: center;
   text-decoration: none;
-  font-family: “Comic Sans MS”, “Comic Sans”, cursive;
+  font-family: “Verdana”;
   
 }
 
